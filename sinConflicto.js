@@ -1,0 +1,1 @@
+const conflicto = "conflicto numero 3 con la rama 3"
